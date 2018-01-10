@@ -1,0 +1,2 @@
+Named Entity Recognition:
+https://spacy.io/usage/linguistic-features#named-entities
